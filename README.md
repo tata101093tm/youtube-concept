@@ -1,4 +1,4 @@
-# Youtube-concept- учебный проект Glo Academy
+# Youtube-concept - учебный проект Glo Academy
 Проект выполнила: Татьяна
 
 ## используемые технологии:
